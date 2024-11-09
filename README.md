@@ -1,4 +1,4 @@
-﻿## Build My Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB 
+﻿## My Chat App with React, Socket.io, Nodejs, Redux-Toolkit, MongoDB 
 
 - Built a real-time messaging Chat App using React, Socket.io, Node.js, Redux-Toolkit, and MongoDB. 
 
